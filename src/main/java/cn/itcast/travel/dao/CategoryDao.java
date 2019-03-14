@@ -6,7 +6,7 @@ import java.util.List;
 import cn.itcast.travel.domain.Category;
 
 /**
- * 分类信息Daoceng
+ * 分类信息Daoceng接口
  * @author Administrator
  *
  */
